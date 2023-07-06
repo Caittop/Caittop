@@ -3,7 +3,7 @@
   <img src="https://cdn.discordapp.com/attachments/629709151374802959/1126639075550560286/wordart_8.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
+  <img height="50" alt="My Name is Livio and I like Node.js" src="https://cdn.discordapp.com/attachments/629709151374802959/1126646279750041631/MEUNOMECAIO.png" />
   <br />
   <br />
 
@@ -21,7 +21,7 @@
 
 <p>
 
-<img alt="Globe" height="80" src="images/globe.gif">
+<img alt="Globe" height="200" src="https://cdn.discordapp.com/attachments/629709151374802959/1126647416402219230/5922a2_d72c7f14048948328ce391283fa793a0mv2.gif">
 </a>
 </p>
 
@@ -29,14 +29,14 @@
 
 
 <td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
+<a href="https://youtu.be/xKISdd2mKzU">
 <strong>MÚSICA MUITO MANEIRA</strong>
 <br />
 <br />
 
 
 <p>
-<img height="100" alt="Music" src="images/music.gif"> 
+<img height="225" alt="Music" src="https://cdn.discordapp.com/attachments/629709151374802959/1126647416909742130/5922a2_3c833488ea04422d9f23a0578adc1f0bmv2.gif"> 
 </a>
 </p>
 
