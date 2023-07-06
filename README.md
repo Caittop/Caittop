@@ -13,7 +13,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io">
+<a href="https://b">
 <strong>Visita meu site ai depois </strong>
 <br />
 <br />
@@ -29,7 +29,7 @@
 
 
 <td align="center">
-<a href="https://youtu.be/xKISdd2mKzU">
+<a href="https://youtu.be/gYpnSxqOsPY">
 <strong>MÚSICA MUITO MANEIRA</strong>
 <br />
 <br />
@@ -44,28 +44,14 @@
 </tr>
 </table>
 
-<div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
-</div>
-
-<!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
-| <a href="https://github.com/jefflmattos"><img width="24" src="https://avatars.githubusercontent.com/u/103447498?s=24&u=0b2749a01404c5c4bc6e693103a450fcf68b194a&v=4" alt="jefflmattos" /> jefflmattos</a> |7/4/2023, 6:09:46 PM|wow that's awesome!|
-| <a href="https://github.com/aldoyh"><img width="24" src="https://avatars.githubusercontent.com/u/5215449?s=24&v=4" alt="aldoyh" /> aldoyh</a> |7/4/2023, 3:33:27 PM|Nice retro 😍|
-| <a href="https://github.com/vishnuprasad-95"><img width="24" src="https://avatars.githubusercontent.com/u/48381842?s=24&u=de8b4fb3fc7585c5e0982ecfe52df7e9dd8d9849&v=4" alt="vishnuprasad-95" /> vishnuprasad-95</a> |7/3/2023, 10:36:54 PM|Lit 🔥|
-| <a href="https://github.com/BrunnerLivio"><img width="24" src="https://avatars.githubusercontent.com/u/9899423?s=24&u=5d1170c99cdf11065093d124bd2c87ee1f3e097e&v=4" alt="BrunnerLivio" /> BrunnerLivio</a> |6/23/2023, 11:20:53 AM|@ut1s off course!|
-| <a href="https://github.com/ut1s"><img width="24" src="https://avatars.githubusercontent.com/u/110339660?s=24&u=dc2b4b03e05b09a4a70fa0a13f3fbae8cf9aca36&v=4" alt="ut1s" /> ut1s</a> |6/22/2023, 3:24:04 PM|Amazing nostalgia, can I copy it? 🤩|
-<!-- /Guestbook -->
-
 <!-- Footer -->
 
 <div align="center">
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="100" alt="Thanks for visiting me" width="50%" src="https://cdn.discordapp.com/attachments/629709151374802959/1126652899808788531/Obrigado-por-visitar-meu-perfi-06-07-2023_1.gif" />
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Caittop/count.svg)
 
 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
