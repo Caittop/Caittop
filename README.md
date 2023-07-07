@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<img height="100" alt="Thanks for visiting me" width="50%" src="https://cdn.discordapp.com/attachments/629709151374802959/1126652899808788531/Obrigado-por-visitar-meu-perfi-06-07-2023_1.gif" />
+<img height="100" alt="Thanks for visiting me" width="50%" src="https://cdn.discordapp.com/attachments/629709151374802959/1126684104667172946/Thanks-for-visiting-my-profile-06-07-2023_2.gif" />
 <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/Caittop/count.svg)
