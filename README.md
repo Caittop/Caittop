@@ -1,9 +1,9 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/629709151374802959/1126639075550560286/wordart_8.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://cdn.discordapp.com/attachments/629709151374802959/1126681904800874496/wordart_9.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Livio and I like Node.js" src="https://cdn.discordapp.com/attachments/629709151374802959/1126646279750041631/MEUNOMECAIO.png" />
+  <img height="50" alt="My Name is Livio and I like Node.js" src="https://cdn.discordapp.com/attachments/629709151374802959/1126682760204001351/MEUNOMECAIO.png" />
   <br />
   <br />
 
@@ -14,7 +14,7 @@
 <tr>
 <td align="center">
 <a href="https://b">
-<strong>Visit my site1 </strong>
+<strong>Visit my site!</strong>
 <br />
 <br />
 <br />
