@@ -14,7 +14,7 @@
 <tr>
 <td align="center">
 <a href="https://b">
-<strong>Visita meu site ai depois </strong>
+<strong>Visit my site1 </strong>
 <br />
 <br />
 <br />
@@ -30,7 +30,7 @@
 
 <td align="center">
 <a href="https://youtu.be/gYpnSxqOsPY">
-<strong>MÚSICA MUITO MANEIRA</strong>
+<strong>Really cool music!</strong>
 <br />
 <br />
 
