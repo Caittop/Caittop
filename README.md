@@ -17,7 +17,7 @@ This is also the default template.</p>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
+      <img src="https://github.com/Caittop/metrics/blob/examples/metrics.classic.svg" alt=""></img>
       <img width="900" height="1" alt="">
     </td>
   </tr>
