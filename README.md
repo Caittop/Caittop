@@ -1,2 +1,2 @@
-![Metrics](https://raw.githubusercontent.com/<caittop>/<caittop/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/<Caittop>/<Caittop/main/github-metrics.svg)
 
